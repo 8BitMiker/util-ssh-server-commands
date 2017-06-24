@@ -66,7 +66,7 @@ o = CMDS.new(ARGV[0].chomp)
 o.go
 
 __END__
-[01VM]:mik3r\@vmicroscopy.dentistry.utoronto.ca
+[01VM]:root\@website.com
 sudo apt-get update; sudo apt-get upgrade -y
 # sudo shutdown -r now
 
